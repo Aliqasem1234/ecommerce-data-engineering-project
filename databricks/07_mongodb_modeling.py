@@ -73,7 +73,7 @@ display(orders_mongo_df)
 
 from pymongo import MongoClient
 
-connection_string = "mongodb+srv://aliqasem606060_db_user:rwhi3VcLug2w6DJA@cluster0.duaelje.mongodb.net/"
+connection_string = "mongodb+srv://aliqasem606060_db_user:yourpassword@cluster0.duaelje.mongodb.net/"
 
 client = MongoClient(connection_string)
 
